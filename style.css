@@ -1,0 +1,40 @@
+.compani{
+	color:rgb(255,200,0);
+}
+.ssilka{
+	background-color:blue;
+	border: 4px solid green;
+	margin: 20px;
+  position: absolute;
+  padding: 5px;
+	left: 600px;
+	margin-right: 400px;
+}
+.ssilka:hover{
+	border: 6px solid green;
+	transform: scale(2.0);
+}
+#test{
+	
+	
+	background-color: #1BA261;
+	color: #ffffff;
+	padding: 15px;
+	padding-left: 550px;
+	margin: 15px;
+	border: 7px solid red;
+	border-radius: 100px;
+}
+body{
+	background-size:100%;
+	background-image:url(http://spike.ru/upload/iblock/a10/a10b2b94a3404da6e841dcfd044ee528.png);
+}
+#test1:hover{
+	transform: scale(2.0);
+}
+#forma{
+	margin: 50px;
+}
+#button{
+	margin-top: 20px;
+}
